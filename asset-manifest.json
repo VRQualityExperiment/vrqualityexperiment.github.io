@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vrqualityexperiment.github.io/static/css/main.66b23a6b.css",
-    "main.js": "/vrqualityexperiment.github.io/static/js/main.b49b45d0.js",
-    "static/js/453.402a76d4.chunk.js": "/vrqualityexperiment.github.io/static/js/453.402a76d4.chunk.js",
-    "static/media/KaelAndersonHeadshot.jpg": "/vrqualityexperiment.github.io/static/media/KaelAndersonHeadshot.016a5ab13f30482e8677.jpg",
-    "static/media/UnityExample.png": "/vrqualityexperiment.github.io/static/media/UnityExample.89c61ab6cb9f612a1a65.png",
-    "static/media/JossHeadshot.png": "/vrqualityexperiment.github.io/static/media/JossHeadshot.818a9033ad0053e1a4af.png",
-    "static/media/MalcolmHeadshot.png": "/vrqualityexperiment.github.io/static/media/MalcolmHeadshot.753199a6b9ade19f6311.png",
-    "static/media/KSULogo2.png": "/vrqualityexperiment.github.io/static/media/KSULogo2.8867e8ee36e23dc2d967.png",
-    "index.html": "/vrqualityexperiment.github.io/index.html",
-    "main.66b23a6b.css.map": "/vrqualityexperiment.github.io/static/css/main.66b23a6b.css.map",
-    "main.b49b45d0.js.map": "/vrqualityexperiment.github.io/static/js/main.b49b45d0.js.map",
-    "453.402a76d4.chunk.js.map": "/vrqualityexperiment.github.io/static/js/453.402a76d4.chunk.js.map"
+    "main.css": "/static/css/main.66b23a6b.css",
+    "main.js": "/static/js/main.aa05cfd8.js",
+    "static/js/453.402a76d4.chunk.js": "/static/js/453.402a76d4.chunk.js",
+    "static/media/KaelAndersonHeadshot.jpg": "/static/media/KaelAndersonHeadshot.016a5ab13f30482e8677.jpg",
+    "static/media/UnityExample.png": "/static/media/UnityExample.89c61ab6cb9f612a1a65.png",
+    "static/media/JossHeadshot.png": "/static/media/JossHeadshot.818a9033ad0053e1a4af.png",
+    "static/media/MalcolmHeadshot.png": "/static/media/MalcolmHeadshot.753199a6b9ade19f6311.png",
+    "static/media/KSULogo2.png": "/static/media/KSULogo2.8867e8ee36e23dc2d967.png",
+    "index.html": "/index.html",
+    "main.66b23a6b.css.map": "/static/css/main.66b23a6b.css.map",
+    "main.aa05cfd8.js.map": "/static/js/main.aa05cfd8.js.map",
+    "453.402a76d4.chunk.js.map": "/static/js/453.402a76d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66b23a6b.css",
-    "static/js/main.b49b45d0.js"
+    "static/js/main.aa05cfd8.js"
   ]
 }
